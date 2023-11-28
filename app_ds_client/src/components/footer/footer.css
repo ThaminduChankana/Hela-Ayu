@@ -1,0 +1,14 @@
+.main-footer {
+	color: #00bb8c;
+	background-color: black;
+	padding-top: 3em;
+	position: relative;
+	bottom: 0;
+	width: 100%;
+	height: auto;
+	font-size: small;
+}
+
+.logo {
+	background-size: cover;
+}

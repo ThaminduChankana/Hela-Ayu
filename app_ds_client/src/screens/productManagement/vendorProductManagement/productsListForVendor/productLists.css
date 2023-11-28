@@ -1,0 +1,9 @@
+.vendorProductList {
+	background: rgb(41, 118, 118);
+	background-repeat: no-repeat;
+}
+.denied {
+	background: url("https://res.cloudinary.com/bytesquad202202/image/upload/v1660761809/images/accessDenied_zhvugi.jpg");
+	background-position: center;
+	background-size: cover;
+}
